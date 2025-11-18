@@ -1,0 +1,24 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Web Development Foundations",
+      "path": "System Administration/Web Development Foundations.md"
+    },
+    {
+      "basename": "Windows Basic",
+      "path": "System Administration/Windows Basic.md"
+    },
+    {
+      "basename": "Linux Basic",
+      "path": "System Administration/Linux Basic.md"
+    },
+    {
+      "basename": "Git Command Cheat Sheet",
+      "path": "System Administration/Git Command Cheat Sheet.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
