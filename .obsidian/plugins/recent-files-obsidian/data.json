@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Offensive Research With AI",
+      "path": "Offensive Research With AI.md"
+    },
+    {
       "basename": "Web Development Foundations",
       "path": "System Administration/Web Development Foundations.md"
     },
@@ -9,12 +13,24 @@
       "path": "System Administration/Windows Basic.md"
     },
     {
+      "basename": "Git Command Cheat Sheet",
+      "path": "System Administration/Git Command Cheat Sheet.md"
+    },
+    {
       "basename": "Linux Basic",
       "path": "System Administration/Linux Basic.md"
     },
     {
-      "basename": "Git Command Cheat Sheet",
-      "path": "System Administration/Git Command Cheat Sheet.md"
+      "basename": "System Design All Ref With NextBox Lab",
+      "path": "System Design All Ref With NextBox Lab.md"
+    },
+    {
+      "basename": "System Design Flow User Request Item.excalidraw",
+      "path": "Excalidraw/System Design Flow User Request Item.excalidraw.md"
+    },
+    {
+      "basename": "Inventory Management Task",
+      "path": "Inventory Management Task.md"
     }
   ],
   "omittedPaths": [],

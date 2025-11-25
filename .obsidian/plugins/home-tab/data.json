@@ -24,20 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "System Administration/Untitled.md",
-      "timestamp": 1763436668398
+      "filepath": "Offensive Research With AI.md",
+      "timestamp": 1764059245450
+    },
+    {
+      "filepath": "System Administration/Web Development Foundations.md",
+      "timestamp": 1764059242954
     },
     {
       "filepath": "System Administration/Windows Basic.md",
-      "timestamp": 1763436183139
-    },
-    {
-      "filepath": "System Administration/Linux Basic.md",
-      "timestamp": 1763436182636
-    },
-    {
-      "filepath": "System Administration/Git Command Cheat Sheet.md",
-      "timestamp": 1763436182169
+      "timestamp": 1764059237138
     }
   ],
   "bookmarkedFileStore": [],
