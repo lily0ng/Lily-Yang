@@ -1,8 +1,136 @@
 {
   "recentFiles": [
     {
+      "basename": "Download Sources",
+      "path": "Resource Link Collections/Download Sources.md"
+    },
+    {
+      "basename": "Resource",
+      "path": "Video Edit/Resource.md"
+    },
+    {
+      "basename": "Resource Links",
+      "path": "UI UX/Making UX Decisions Course Materials/Resource Links.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "AI/Untitled.md"
+    },
+    {
+      "basename": "System Design All Ref With NextBox Lab",
+      "path": "Dev Notes/System Design All Ref With NextBox Lab.md"
+    },
+    {
+      "basename": "Project Status",
+      "path": "Dev Notes/Project Status.md"
+    },
+    {
+      "basename": "Inventory Management Task",
+      "path": "Dev Notes/Inventory Management Task.md"
+    },
+    {
+      "basename": "WAREHOUSE MANAGEMENT SYSTEM",
+      "path": "Dev Notes/WAREHOUSE MANAGEMENT SYSTEM.md"
+    },
+    {
       "basename": "Offensive Research With AI",
-      "path": "Offensive Research With AI.md"
+      "path": "Researcher/Offensive Research With AI.md"
+    },
+    {
+      "basename": "Usability Principles",
+      "path": "UI UX/Making UX Decisions Course Materials/Information Scaffold/Usability Principles.md"
+    },
+    {
+      "basename": "Cluster Product Requirements",
+      "path": "UI UX/Making UX Decisions Course Materials/Cluster References/Cluster Product Requirements.md"
+    },
+    {
+      "basename": "Course Project - Cluster",
+      "path": "UI UX/Making UX Decisions Course Materials/Cluster References/Course Project - Cluster.md"
+    },
+    {
+      "basename": "System Design Flow User Request Item.excalidraw",
+      "path": "Excalidraw/System Design Flow User Request Item.excalidraw.md"
+    },
+    {
+      "basename": "Rule",
+      "path": "The Roots/Rule.md"
+    },
+    {
+      "basename": "Module 1 - Persona and Goal Alignment",
+      "path": "UI UX/Making UX Decisions Course Materials/Module 1 - Persona and Goal Alignment.md"
+    },
+    {
+      "basename": "Market Research Reference",
+      "path": "UI UX/Making UX Decisions Course Materials/Information Scaffold/Market Research Reference.md"
+    },
+    {
+      "basename": "Design System Reference",
+      "path": "UI UX/Making UX Decisions Course Materials/Information Scaffold/Design System Reference.md"
+    },
+    {
+      "basename": "Accessibility Principles",
+      "path": "UI UX/Making UX Decisions Course Materials/Information Scaffold/Accessibility Principles.md"
+    },
+    {
+      "basename": "Module 2 - Personal Anchor Reflection",
+      "path": "UI UX/Making UX Decisions Course Materials/Module 2 - Personal Anchor Reflection.md"
+    },
+    {
+      "basename": "Temp Download Links",
+      "path": "Resource Link Collections/Temp Download Links.md"
+    },
+    {
+      "basename": "Module 5 - Cluster Information Scaffold",
+      "path": "UI UX/Making UX Decisions Course Materials/Module 5 - Cluster Information Scaffold.md"
+    },
+    {
+      "basename": "Module 4 - Warp-speed vs. Mine-sweeper Decision Matrix",
+      "path": "UI UX/Making UX Decisions Course Materials/Module 4 - Warp-speed vs. Mine-sweeper Decision Matrix.md"
+    },
+    {
+      "basename": "Module 3 - Cluster Product Summary",
+      "path": "UI UX/Making UX Decisions Course Materials/Module 3 - Cluster Product Summary.md"
+    },
+    {
+      "basename": "Module 7 - Applying the Decisioning Workflow",
+      "path": "UI UX/Making UX Decisions Course Materials/Module 7 - Applying the Decisioning Workflow.md"
+    },
+    {
+      "basename": "Module 7 - Cluster Decisioning Flowchart",
+      "path": "UI UX/Making UX Decisions Course Materials/Module 7 - Cluster Decisioning Flowchart.md"
+    },
+    {
+      "basename": "Module 6 - Cluster Design Bets",
+      "path": "UI UX/Making UX Decisions Course Materials/Module 6 - Cluster Design Bets.md"
+    },
+    {
+      "basename": "Module 6 - Cluster JTBD Statements",
+      "path": "UI UX/Making UX Decisions Course Materials/Module 6 - Cluster JTBD Statements.md"
+    },
+    {
+      "basename": "Module 6 - Cluster Competitor Analysis",
+      "path": "UI UX/Making UX Decisions Course Materials/Module 6 - Cluster Competitor Analysis.md"
+    },
+    {
+      "basename": "Default Type & Icon Libraries",
+      "path": "UI UX/Making UX Decisions Course Materials/Information Scaffold/Default Type & Icon Libraries.md"
+    },
+    {
+      "basename": "Economic Fundamentals",
+      "path": "UI UX/Making UX Decisions Course Materials/Information Scaffold/Economic Fundamentals.md"
+    },
+    {
+      "basename": "Atomic Design Principles",
+      "path": "UI UX/Making UX Decisions Course Materials/Information Scaffold/Atomic Design Principles.md"
+    },
+    {
+      "basename": "Fav Course Links",
+      "path": "Resource Link Collections/Fav Course Links.md"
+    },
+    {
+      "basename": "Linux Basic",
+      "path": "System Administration/Linux Basic.md"
     },
     {
       "basename": "Web Development Foundations",
@@ -15,22 +143,6 @@
     {
       "basename": "Git Command Cheat Sheet",
       "path": "System Administration/Git Command Cheat Sheet.md"
-    },
-    {
-      "basename": "Linux Basic",
-      "path": "System Administration/Linux Basic.md"
-    },
-    {
-      "basename": "System Design All Ref With NextBox Lab",
-      "path": "System Design All Ref With NextBox Lab.md"
-    },
-    {
-      "basename": "System Design Flow User Request Item.excalidraw",
-      "path": "Excalidraw/System Design Flow User Request Item.excalidraw.md"
-    },
-    {
-      "basename": "Inventory Management Task",
-      "path": "Inventory Management Task.md"
     }
   ],
   "omittedPaths": [],

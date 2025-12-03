@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offensive Research With AI.md",
+                "file": "Resource Link Collections/Download Sources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Offensive Research With AI"
+              "title": "Download Sources"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318
   },
   "right": {
     "id": "729079ddc0065f29",
@@ -203,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dashboard-navigator:Open dashboard navigator": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -214,35 +215,47 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "iconic:Open rulebook": false
     }
   },
   "active": "124b100d39958952",
   "lastOpenFiles": [
-    "System Administration/Web Development Foundations.md",
-    "System Administration/Windows Basic.md",
-    "New.md",
-    "System Administration/Git Command Cheat Sheet.md",
-    "System Administration/Linux Basic.md",
-    "Offensive Research With AI.md",
-    "System Design All Ref With NextBox Lab.md",
+    "Video Edit/Resource.md",
+    "UI UX/Making UX Decisions Course Materials/Resource Links.md",
+    "AI/Untitled.md",
+    "Dev Notes/System Design All Ref With NextBox Lab.md",
+    "Dev Notes/Project Status.md",
+    "Dev Notes/Inventory Management Task.md",
+    "Dev Notes/WAREHOUSE MANAGEMENT SYSTEM.md",
+    "Researcher/Offensive Research With AI.md",
+    "UI UX/Making UX Decisions Course Materials/Information Scaffold/Usability Principles.md",
+    "UI UX/Making UX Decisions Course Materials/Cluster References/Cluster Product Requirements.md",
+    "UI UX/Making UX Decisions Course Materials/Cluster References/Course Project - Cluster.md",
     "Excalidraw/System Design Flow User Request Item.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-24 09.32.53.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-24 09.23.09.excalidraw.md",
-    "Excalidraw",
-    "Draws",
-    "Inventory Management Task.md",
-    "Software Engineering/Inventory Management Project/Inventory Management System Project Tracking Notes.md",
-    "Software Engineering/Inventory Management Project/Untitled.md",
-    "Software Engineering/Inventory Management Project/Demo Notes.md",
-    "Software Engineering/Inventory Management Project",
-    "Software Engineering",
-    "New Note.md",
-    "System Administration",
-    "AWS Learning/15 - Analytics & Big Data/Stream Processing",
-    "AWS Learning/15 - Analytics & Big Data/Redshift",
-    "AWS Learning/15 - Analytics & Big Data/QuickSight",
-    "AWS Learning/15 - Analytics & Big Data/Lake Formation",
-    "AWS Learning/15 - Analytics & Big Data/Kinesis Streams"
+    "The Roots/Rule.md",
+    "The Roots",
+    "UI UX/Making UX Decisions Course Materials/Module 1 - Persona and Goal Alignment.md",
+    "UI UX/Making UX Decisions Course Materials/Information Scaffold/Untitled.md",
+    "UI UX/Making UX Decisions Course Materials/Information Scaffold/Market Research Reference.md",
+    "UI UX/Making UX Decisions Course Materials/Information Scaffold/Design System Reference.md",
+    "UI UX/Making UX Decisions Course Materials/Information Scaffold/Accessibility Principles.md",
+    "Video Edit",
+    "AI",
+    "UI UX/Making UX Decisions Course Materials/Module 2 - Personal Anchor Reflection.md",
+    "Resource Link Collections/Temp Download Links.md",
+    "Resource Link Collections/Download Sources.md",
+    "UI UX/Making UX Decisions Course Materials/Module 5 - Cluster Information Scaffold.md",
+    "UI UX/Making UX Decisions Course Materials/Module 4 - Warp-speed vs. Mine-sweeper Decision Matrix.md",
+    "UI UX/Making UX Decisions Course Materials/Module 3 - Cluster Product Summary.md",
+    "UI UX/Making UX Decisions Course Materials/Module 7 - Applying the Decisioning Workflow.md",
+    "UI UX/Making UX Decisions Course Materials/Module 7 - Cluster Decisioning Flowchart.md",
+    "UI UX/Making UX Decisions Course Materials/Module 2 - Personal Anchor Reflection",
+    "UI UX/Making UX Decisions Course Materials/Module 1 - Persona and Goal Alignment",
+    "Clippings",
+    "UI UX/Making UX Decisions Course Materials/Cluster References",
+    "UI UX/Making UX Decisions Course Materials/Information Scaffold",
+    "UI UX/Making UX Decisions Course Materials",
+    "Offensive Security/Web Security"
   ]
 }
