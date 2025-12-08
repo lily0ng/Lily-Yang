@@ -8,11 +8,13 @@
 root@lilyang:~# ls
 ```
 
+
 **Output**
 
 ```bash
 Desktop  Downloads  Pictures  Documents  file.txt  script.sh
 ```
+
 
 ### **2. Long listing**
 

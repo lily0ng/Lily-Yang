@@ -1,5 +1,5 @@
 {
-  "logoType": "lucideIcon",
+  "logoType": "default",
   "logo": {
     "lucideIcon": "",
     "imagePath": "",
@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Software Dev/Inventory Management/Feature Lists.md",
-      "timestamp": 1765161928215
+      "filepath": "System Administration/Linux Basic.md",
+      "timestamp": 1765229471575
     },
     {
-      "filepath": "Software Dev/Inventory Management/Setup Doc.md",
-      "timestamp": 1765161927663
-    },
-    {
-      "filepath": "The Roots/Untitled.md",
-      "timestamp": 1765161703340
-    },
-    {
-      "filepath": "The Roots/Rule.md",
-      "timestamp": 1765161698928
-    },
-    {
-      "filepath": "CVE/CVE-2025-55182/CVE-2025-55182 Analysis.md",
-      "timestamp": 1765127974616
+      "filepath": "Offensive Security/Enumeration/SSH Enumerations.md",
+      "timestamp": 1765229394362
     }
   ],
   "bookmarkedFileStore": [],

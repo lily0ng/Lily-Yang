@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux Basic",
+      "path": "System Administration/Linux Basic.md"
+    },
+    {
+      "basename": "SSH Enumerations",
+      "path": "Offensive Security/Enumeration/SSH Enumerations.md"
+    },
+    {
       "basename": "Feature Lists",
       "path": "Software Dev/Inventory Management/Feature Lists.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "Course Project - Cluster",
       "path": "UI UX/Making UX Decisions Course Materials/Cluster References/Course Project - Cluster.md"
-    },
-    {
-      "basename": "SSH Enumerations",
-      "path": "Offensive Security/Enumeration/SSH Enumerations.md"
     },
     {
       "basename": "Module 1 - Persona and Goal Alignment",
@@ -155,10 +159,6 @@
     {
       "basename": "Fav Course Links",
       "path": "Resource Link Collections/Fav Course Links.md"
-    },
-    {
-      "basename": "Linux Basic",
-      "path": "System Administration/Linux Basic.md"
     },
     {
       "basename": "Web Development Foundations",

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cd4f6ecce9147e5e",
+        "id": "3e47e2435c05f720",
         "type": "tabs",
         "children": [
           {
-            "id": "faae5cf228429404",
+            "id": "f352bc78deb3cc12",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "System Administration/Linux Basic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux Basic"
             }
           }
         ]
@@ -214,8 +218,9 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "faae5cf228429404",
+  "active": "f352bc78deb3cc12",
   "lastOpenFiles": [
+    "Offensive Security/Enumeration/SSH Enumerations.md",
     "Software Dev/Inventory Management/Feature Lists.md",
     "Software Dev/Inventory Management/Setup Doc.md",
     "Software Dev/Inventory Management",
@@ -238,7 +243,6 @@
     "Software Dev/Dev Notes/Project Status.md",
     "Software Dev/Dev Notes/Inventory Management Task.md",
     "UI UX/Making UX Decisions Course Materials/Cluster References/Course Project - Cluster.md",
-    "Offensive Security/Enumeration/SSH Enumerations.md",
     "UI UX/Making UX Decisions Course Materials/Module 1 - Persona and Goal Alignment.md",
     "Offensive Security/Enumeration",
     "UI UX/Making UX Decisions Course Materials/Information Scaffold/Default Type & Icon Libraries.md",
