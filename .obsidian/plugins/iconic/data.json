@@ -37,7 +37,7 @@
   "folderRules": [
     {
       "id": "SK98k",
-      "name": "Untitled rule",
+      "name": "MD Rule",
       "match": "all",
       "conditions": [
         {
@@ -45,7 +45,7 @@
           "operator": "contains"
         }
       ],
-      "enabled": false
+      "enabled": true
     }
   ]
 }

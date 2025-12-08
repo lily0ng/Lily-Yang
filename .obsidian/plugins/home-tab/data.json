@@ -1,12 +1,12 @@
 {
-  "logoType": "default",
+  "logoType": "lucideIcon",
   "logo": {
     "lucideIcon": "",
     "imagePath": "",
     "imageLink": ""
   },
   "logoScale": 1.2,
-  "iconColorType": "default",
+  "iconColorType": "accentColor",
   "wordmark": "Obsidian",
   "customFont": "interfaceFont",
   "fontSize": "4em",
@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Resource Link Collections/Download Sources.md",
-      "timestamp": 1764742459304
+      "filepath": "Software Dev/Inventory Management/Feature Lists.md",
+      "timestamp": 1765161928215
     },
     {
-      "filepath": "Video Edit/Resource.md",
-      "timestamp": 1764742447937
+      "filepath": "Software Dev/Inventory Management/Setup Doc.md",
+      "timestamp": 1765161927663
     },
     {
-      "filepath": "UI UX/Making UX Decisions Course Materials/Resource Links.md",
-      "timestamp": 1764742445243
+      "filepath": "The Roots/Untitled.md",
+      "timestamp": 1765161703340
     },
     {
-      "filepath": "AI/Untitled.md",
-      "timestamp": 1764742441605
+      "filepath": "The Roots/Rule.md",
+      "timestamp": 1765161698928
     },
     {
-      "filepath": "Dev Notes/System Design All Ref With NextBox Lab.md",
-      "timestamp": 1764733347452
+      "filepath": "CVE/CVE-2025-55182/CVE-2025-55182 Analysis.md",
+      "timestamp": 1765127974616
     }
   ],
   "bookmarkedFileStore": [],
