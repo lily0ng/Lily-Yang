@@ -1,0 +1,20 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "excalidraw": 1,
+    "clippings": 2,
+    "security-team": 3,
+    "soc-team": 4
+  },
+  "tagColors": {},
+  "_version": 4
+}
